@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- test/CI-CD-test-branch
+- test/SECURITIESRESEARCH-276-CI-CD-test-branch
 
 pool:
   vmImage: windows-latest
